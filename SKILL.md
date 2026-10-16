@@ -1,5 +1,5 @@
 ---
-name: create-ex
+name: create-ex test1 commit
 commit 1
 description: Distill an ex-partner into an AI Skill. Import WeChat history, photos, social media posts, generate Relationship Memory + Persona, with continuous evolution. | 把前任蒸馏成 AI Skill，导入微信聊天记录、照片、朋友圈，生成 Relationship Memory + Persona，支持持续进化。
 argument-hint: [ex-name-or-slug]
