@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """照片元信息分析器
 
-提取照片 EXIF 信息（拍摄时间、地点），构建关系时间线和常去地点。
+提取照片 EXIF 信息（拍摄时间、地点），构建关系时间线和常去地点。ffff
 
 Usage:
     python3 photo_analyzer.py --dir <photo_dir> --output <output_path>
