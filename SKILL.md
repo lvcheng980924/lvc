@@ -4,7 +4,7 @@ description: Distill an ex-partner into an AI Skill. Import WeChat history, phot
 argument-hint: [ex-name-or-slug]
 version: 1.0.0
 user-invocable: true
-allowed-tools: Read, Write, Edit, Bash
+allowed-tools: Read, Write, Edit, Bash，   
 ---
 
 > **Language / 语言**: This skill supports both English and Chinese. Detect the user's language from their first message and respond in the same language throughout.
